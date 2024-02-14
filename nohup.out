@@ -1,0 +1,69 @@
+Opening in existing browser session.
+MESA-INTEL: warning: Haswell Vulkan support is incomplete
+[2585:2585:0214/133330.207105:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not implemented
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+[2585:2585:0214/133341.535788:ERROR:atom_cache.cc(224)] Add chromium/from-privileged to kAtomsToCache
+[2585:2611:0214/134453.551702:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[2626:2626:0214/134803.022609:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[2626:2626:0214/134804.695180:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[2626:2626:0214/134811.158645:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[2626:2626:0214/135338.619566:ERROR:shared_image_manager.cc(221)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[2626:2626:0214/135338.621299:ERROR:shared_image_manager.cc(221)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[2585:2611:0214/135617.788559:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[2585:2611:0214/140743.630501:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[2585:2611:0214/141901.542590:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[2585:2611:0214/143106.504842:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[2585:2611:0214/144311.528438:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[2585:2611:0214/145429.389127:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[2585:2611:0214/150632.381462:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[2629:2634:0214/150937.878338:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2585:2611:0214/151758.424165:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[2585:2611:0214/153003.397827:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[2585:2611:0214/154206.366662:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[2585:2611:0214/154417.636648:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[2585:2585:0214/154417.709912:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.712576:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.715077:ERROR:network_service_instance_impl.cc(599)] Network service crashed, restarting service.
+[2585:2585:0214/154417.729055:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.733110:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.740017:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.746918:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.749132:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.749324:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.750769:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.752627:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.758038:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.761582:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.764755:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.767003:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.769975:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.772760:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.780473:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.783356:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.785391:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.795183:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.797664:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.801484:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.803898:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.809931:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2585:2585:0214/154417.839306:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[2585:2585:0214/154417.854332:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[2585:2585:0214/154417.856355:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[2585:2585:0214/154417.857824:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[2585:2585:0214/154417.859148:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[2585:2585:0214/154417.861582:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[2585:2585:0214/154417.863201:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[2585:2585:0214/154417.864207:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[2585:2585:0214/154417.864997:ERROR:gpu_process_host.cc(986)] GPU process launch failed: error_code=1002
+[2585:2585:0214/154417.865009:FATAL:gpu_data_manager_impl_private.cc(448)] GPU process isn't usable. Goodbye.
+[0214/154417.875415:ERROR:elf_dynamic_array_reader.h(64)] tag not found
+[0214/154417.894305:ERROR:directory_reader_posix.cc(43)] opendir /home/nikolai/.config/google-chrome/Crash Reports/attachments/74ce9f10-41ae-44b3-8bd0-bbd91498723e: No such file or directory (2)
+MESA-INTEL: warning: Haswell Vulkan support is incomplete
+[7543:7543:0214/154445.823869:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not implemented
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+[7543:7565:0214/154615.671021:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+[7585:7585:0214/154716.943329:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[7585:7585:0214/154716.946478:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[7585:7585:0214/154721.402683:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
